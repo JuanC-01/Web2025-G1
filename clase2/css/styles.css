@@ -1,0 +1,41 @@
+body{
+    background-color: brown;
+}
+
+#caja1{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    display: inline-block;
+}
+
+#caja2{
+    background-color: rgb(0, 255, 42);
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    display: inline-block;
+}
+
+#caja3{
+    background-color: rgb(255, 174, 0);
+    width: 200px;
+    height: 200px;
+}
+
+#caja4{
+    background-color: rgb(234, 0, 255);
+    width: 200px;
+    height: 200px;
+}
+
+a{
+    font-size: 50px;
+    padding: 20px;
+    padding-top: 400px;
+}
+
+.bordeAncho{
+    border: 10px solid rgba(0, 0, 0, 0.616);
+}
