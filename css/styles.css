@@ -1,0 +1,23 @@
+h1{
+    color: rgb(47, 165, 24);
+    font-weight: normal;
+    text-align: center;
+    font-size: 30px;
+}
+
+span{
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.derecha{
+    color: rgb(180, 16, 71);
+}
+
+#primera{
+    color: rgba(0, 0, 255, 0.301);
+}
